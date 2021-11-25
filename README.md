@@ -1,4 +1,4 @@
-# encryptstring
+# Encrypt String - Compute Hash
 
 Create hash from a string and confirm the hash
 
